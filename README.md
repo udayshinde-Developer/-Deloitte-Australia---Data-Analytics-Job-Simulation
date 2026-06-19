@@ -14,6 +14,7 @@ Generated actionable business insights to support maintenance planning and impro
 Presented findings through a stakeholder-friendly dashboard for data-driven operational decision-making.
 
 🛠️ Tools & Skills
+
 Tableau – Interactive dashboards, charts, filters, and data visualization
 
 Microsoft Excel – Data cleaning, preprocessing, and validation
